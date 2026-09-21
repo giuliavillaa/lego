@@ -8,7 +8,7 @@ spec:
   service:
     image:
       # NOTICE: Update this line to point to your repo
-      repository: ghcr.io/dtu-platform-workshop/dtu-<your-github-username>/first-app 
+      repository: ghcr.io/dtu-platform-workshop/dtu-<giuliavillaa>/first-app 
       # NOTICE: Update this line to whatever tag you see when you find it 
       # under the "Packages" in your repository 
       tag: 20260919-6cf019c
